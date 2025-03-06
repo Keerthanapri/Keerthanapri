@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Keerthana Priya  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23F7DC6F&size=22&center=true&vCenter=true&width=500&height=50&lines=UI%2FUX+Designer+%7C+Web+Developer+%7C+Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FF5733&size=22&center=true&vCenter=true&width=500&height=50&lines=UI%2FUX+Designer+%7C+Web+Developer+%7C+Tech+Enthusiast)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FFD700&size=22&center=true&vCenter=true&width=500&height=50&lines=Passionate+about+designing+and+coding!+🚀)  
 
 🎨 **Passionate UI/UX Designer & Web Developer**  
 💻 **Engineering Student | Creative Thinker | Tech Enthusiast**  
@@ -44,13 +45,10 @@
 ---
 
 ## 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=for-the-badge&logo=Google-Chrome)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter)](https://twitter.com/yourhandle)  
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/keerthanapriya29)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keeru_dr)  
 
 ---
 
 💡 _"Design is intelligence made visible."_ – Alina Wheeler 🎨  
 🚀 **Let's create amazing designs and web experiences together!**  
-
