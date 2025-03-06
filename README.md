@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Keerthana Priya D R!  
+# 👋 Hello, I'm Keerthana Priya D R! 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F7DC6F&size=22&center=true&vCenter=true&width=700&height=50&lines=UI%2FUX+Designer+%7C+Web+Developer+%7C+Tech+Enthusiast)
 
@@ -42,13 +42,11 @@
 ---
 
 ## 🎉 **Fun Facts About Me!**  
-
 🎨 I love sketching & digital art—it’s my stress buster!  
-🎥 I love to edit videos and also interested in photography!
+🌍 I enjoy exploring new places and trying different cuisines!  
 🎧 Music is my daily motivation—can’t work without it!  
-💡 I believe: "Good design is obvious. Great design is transparent."
-
-
+🎥 I love to edit videos and also interested in photography!  
+💡 I believe: "Good design is obvious. Great design is transparent."  
 
 ---
 
