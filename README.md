@@ -43,9 +43,10 @@
 
 ## 🎉 **Fun Facts About Me!**  
 🎨 I love sketching & digital art—it’s my stress buster!  
+🎥 I love to edit videos and also interested in photography!
 🌍 I enjoy exploring new places and trying different cuisines!  
 🎧 Music is my daily motivation—can’t work without it!  
-🐱 I am a huge cat lover! (Still waiting to adopt one 🐾)  
+🐱 I am a cat lover! (Still waiting to adopt one 🐾) 
 💡 I believe: "Good design is obvious. Great design is transparent."  
 
 ---
