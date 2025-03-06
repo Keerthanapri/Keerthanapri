@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Keerthana Priya!  
+# 👋 Hello, I'm Keerthana Priya D R!  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F7DC6F&size=22&center=true&vCenter=true&width=700&height=50&lines=UI%2FUX+Designer+%7C+Web+Developer+%7C+Tech+Enthusiast)
 
