@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Keerthana Priya!  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F7DC6F&size=22&center=true&vCenter=true&width=500&height=50&lines=UI%2FUX+Designer+%7C+Web+Developer+%7C+Tech+Enthusiast)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F7DC6F&size=22&center=true&vCenter=true&width=700&height=50&lines=UI%2FUX+Designer+%7C+Web+Developer+%7C+Tech+Enthusiast)
+
 
 🚀 **Passionate about crafting beautiful & functional digital experiences!**
 
